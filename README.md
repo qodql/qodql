@@ -20,13 +20,18 @@
 <h4>프레임워크</h4>
 <p>
 <img src='./assets/img/icon-project-react.svg'>
+<img src='./assets/img/icon-project-next.svg'>
+<img src='./assets/img/icon-project-vue.svg'>
 </p>
 
 <h4>라이브러리</h4>
 <p>
 <img src='./assets/img/icon-project-zustand.svg'>
 <img src='./assets/img/icon-project-redux.svg'>
-<img src='./assets/img/icon-project-vitge.svg'>
+<img src='./assets/img/icon-project-vite.svg'>
+<img src='./assets/img/icon-project-swiper.svg'>
+<img src='./assets/img/icon-project-mui.svg'>
+<img src='./assets/img/icon-project-tailwind.svg'>
 </p>
 
 <h4>백엔드</h4>
@@ -40,4 +45,5 @@
 <p>
 <img src='./assets/img/icon-project-git.svg'>
 <img src='./assets/img/icon-project-figma.svg'>
+<img src='./assets/img/icon-project-vscode.svg'>
 </p>
