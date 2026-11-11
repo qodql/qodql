@@ -37,7 +37,6 @@
 <img src='./assets/img/icon-project-react.svg'>
 <img src='./assets/img/icon-project-next.svg'>
 <img src='./assets/img/icon-project-vue.svg'>
-<img src='./assets/img/icon-project-tailwind.svg'>
 </p>
 
 <h4>라이브러리</h4>
@@ -48,6 +47,7 @@
 <img src='./assets/img/icon-project-vite.svg'>
 <img src='./assets/img/icon-project-swiper.svg'>
 <img src='./assets/img/icon-project-mui.svg'>
+<img src='./assets/img/icon-project-tailwind.svg'>
 </p>
 
 <h4>백엔드</h4>
